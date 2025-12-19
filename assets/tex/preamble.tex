@@ -1,0 +1,104 @@
+
+
+% moderncv themes
+\moderncvtheme[black]{classic} % optional argument are 'blue' (default), 
+                               % 'orange', 'green', 'red', 'purple', 
+                               % 'grey' and 'roman' (for roman fonts, 
+                               % instead of sans serif fonts)
+%\usepackage{assets/tex/moderncvthemeclassic}
+
+%\usepackage[utf8]{inputenc} %character encoding
+
+%\usepackage{hyperref}
+\usepackage{url,fancyhdr}
+
+% needed for xelatex to work
+\usepackage{fontspec}
+\usepackage{xunicode}
+\usepackage{xcolor}
+
+% my additions: 
+% include ipa and bib formatting
+\let\sups\relax
+\usepackage{tipa}
+\usepackage{multicol}
+\usepackage[spanish, english]{babel}
+\usepackage{natbib}
+\usepackage{bibentry}
+\newcommand{\bibverse}[1]{\begin{verse} \bibentry{#1}. \end{verse}}
+\usepackage{hanging}
+\usepackage{fontawesome5}
+\usepackage{academicons}
+
+% adjust the page margins
+\usepackage[scale=0.8]{geometry}
+
+%\setlength{\hintscolumnwidth}{3cm}           % if you want to change the 
+                                              % width of the column with the 
+                                              % dates
+%\setlength{\maketitlenamewidth}{10cm}}       % only for the classic theme, 
+                                              % if you want to change the 
+                                              % width of your name placeholder 
+                                              % (to leave more space for your 
+                                              % address details
+
+
+
+
+% Personal data
+\firstname{Robert}
+\familyname{Esposito}
+\title{Ph.D. Student}
+\address{Rutgers University \\ 
+         Department of Spanish and Portuguese}{New Brunswick, NJ 08901}
+% \mobile{}
+\phone{(848) 932-6934}
+%\fax{(520) 621-6104}
+\email{rme70@scarletmail.rutgers.edu}
+\homepage{https://robertespo.github.io/}
+% \extrainfo{}
+\def\mytitle{Ph.D. Student}
+\def\myphone{(848) 932-6934}
+% \def\myskype{casillas.joseph}
+\def\myemail{rme70@scarletmail.rutgers.edu}
+\def\myweb{https://robertespo.github.io/}
+\def\facweb{https://span-port.rutgers.edu/people/ph-d-students-tas/graduate-students/129-current-students-phd-in-bilingualismsla/1094-esposito-robert}
+\def\school{Rutgers University}
+\def\schoolweb{https://www.rutgers.edu}
+
+
+%\nopagenumbers{}  % uncomment to suppress automatic page numbering for CVs 
+                   % longer than one page
+
+% IPA stuff
+\AtBeginDocument{
+  \renewcommand\textipa[2][r]{{\fontfamily{cm#1}\tipaencoding #2}}
+}
+\renewenvironment{IPA}[1][r]
+ {\fontfamily{cm#1}\tipaencoding}
+ {}
+
+% Adjust section rule thickness
+% Decrease vertical distance after section header
+\makeatletter
+\renewcommand{\section}[1]
+{\vspace*{2.5ex \@plus 1ex \@minus .2ex}%
+\phantomsection{}% reset the anchor for hyperrefs
+\addcontentsline{toc}{part}{#1}%
+\parbox[m]{\hintscolumnwidth}{\raggedleft  \hintfont{\color{sectionrectanglecolor}\rule{\hintscolumnwidth}{1.5pt}}}%<- auf 11pt geaendert
+\hspace{\separatorcolumnwidth}%
+\parbox[m]{\maincolumnwidth}{\sectionstyle{#1}}\\[0ex]}
+\makeatother
+
+% hanging bib
+\nobibliography*
+\newcommand\hangbibentry[1]{%
+    \hangpara{1.5em}{1}\bibentry{#1}.\par %{indent}{afterline}
+}
+
+% Bold author name
+%\newcommand\authoremph[1]{#1}
+\newcommand\authoremph[1]{\textbf{#1}}
+
+% set linebreaks
+\hyphenation{anti-ci-pa-tion acco-mmo-da-tion pro-ce-ssing heri-tage Co-llege con-si-de-ra-tions Pho-no-lo-gy me-tho-do-lo-gi-cal}

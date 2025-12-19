@@ -1,0 +1,7 @@
+
+\section{Professional Development}
+
+\cventry{2025}{Improving Your Classroom Skills Workshop Series}{Institute for Teaching, Innovation, and Inclusive Pedagogy}{}{Rutgers University}{New Brunswick, NJ}
+\cventry{2025}{Second Language Learning Pedagogy}{}{The Language Center}{Rutgers University}{New Brunswick, NJ}
+\cventry{2021}{Multicultural Competence}{Department of Latino and Caribbean Studies}{}{Rutgers University}{New Brunswick, NJ}
+\cventry{2018}{Level 5 Certificate in Teaching English as a Foreign Language}{}{}{International TEFL School}{Barcelona, Spain}

@@ -1,0 +1,8 @@
+
+\section{Teaching Experience}
+
+\cventry{2024 -- present}{Teaching Assistant}{Rutgers University}{New Brunswick, NJ}{}{Undergraduate (taught in Spanish):
+        \begin{itemize}
+            \item[] \small \emph{Introduction to the Study of Language}
+            \item[] \small \emph{Advanced Composition and Introduction to Translation Studies}
+            }

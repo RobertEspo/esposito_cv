@@ -1,0 +1,8 @@
+
+\section{Software}
+
+\subsection{R packages}
+
+\subsection{Web applications}
+
+\subsection{Miscellaneous}

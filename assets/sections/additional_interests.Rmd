@@ -1,0 +1,33 @@
+
+\section{Additional Interests}
+
+Languages \vspace{-.18in}  
+
+\begin{tabular}{p{1.15in}lp{.7in}l}
+  & English & & Portuguese \\
+  & Spanish & & Italian    \\
+  & French  & &             \\ [2.5ex]
+\end{tabular}
+
+
+\vspace{.2in}
+
+
+Programming  
+Languages \vspace{-.37in}  
+
+\begin{tabular}{p{1.15in}lp{.7in}l}
+  & R        & & \LaTeX   \\
+  & Python   & &       \\ [2.5ex]
+\end{tabular}
+
+
+\vspace{.2in}
+
+
+Technology \vspace{-.18in}  
+
+\begin{tabular}{p{1.15in}lp{.55in}lp{.7in}l}
+   & MacOS X              & & Praat      & & PsychoPy                 \\ 
+   & Windows              & & R/RStudio & &              \\ [2.5ex]
+\end{tabular}

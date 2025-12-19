@@ -1,0 +1,24 @@
+\section{Presentations}
+
+\subsection{Conference Presentations}
+
+\cventry{}{\hangbibentry{esposito_hls-pres_2025}}{}{}{}{}
+\cventry{}{\hangbibentry{esposito_salvadoran-intonation_2021}}{}{}{}{}
+
+
+\subsection{Poster Presentations}
+
+
+
+\subsection{Unrefereed Presentations}
+
+
+
+\subsection{Invited Talks}
+
+\cventry{}{\hangbibentry{esposito_plots_2025}}{}{}{}{}
+\cventry{}{\hangbibentry{esposito_psycho-phonetics_2025}}{}{}{}{}
+\cventry{}{\hangbibentry{esposito_lengua-y-herencia_2025}}{}{}{}{}
+
+\subsection{Workshops}
+

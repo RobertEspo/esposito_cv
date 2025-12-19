@@ -1,0 +1,29 @@
+
+\noindent \rule{492pt}{1.5pt}
+\vspace{-0.1in}
+
+\begin{minipage}[t]{2.4in}
+ \flushleft 
+  \href{\schoolweb}{\school} \\ 
+  Academic Building-CAC \\  
+  15 Seminary place \\
+  New Brunswick, \textsc{nj} 08901 
+\end{minipage}
+\hfill     
+\begin{minipage}[t]{1.7in}
+  \flushleft 
+  \faUniversity \phantom{-}\href{\facweb}{Faculty page} \\
+  \faPhone \phantom{-}\myphone \\
+  \faPaperPlane \phantom{-}\href{\myemail}{\texttt{\myemail}} \\
+  \faHome \phantom{-}\href{https://robertespo.github.io/}{\texttt{\myweb}} \\
+\end{minipage}
+\hfill
+\begin{minipage}[t]{1.7in}
+  \flushright 
+  Google scholar: \href{https://scholar.google.com/citations?hl=en&user=ZUcIHu0AAAAJ}{\aiGoogleScholar} \\ 
+  ResearchGate: \href{}{\aiResearchGate} \\
+  @RobertEspo \href{https://github.com/RobertEspo}{\faGithub} \\ 
+  LinkedIn: \href{https://www.linkedin.com/in/robert-esposito-4a51911a2/}{\faLinkedin}
+\end{minipage}
+
+\vspace{0.1in}

@@ -1,0 +1,11 @@
+
+\noindent \rule{492pt}{1.5pt}
+
+\smallskip
+
+\begin{center}
+  \begin{footnotesize}
+    Last updated: \today \\
+    \href{https://robertespo.github.io/}{https://robertespo.github.io/}
+  \end{footnotesize}
+\end{center}

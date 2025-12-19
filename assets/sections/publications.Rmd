@@ -1,0 +1,21 @@
+
+\section{Publications}
+
+\vspace{-0.1in}
+
+\subsection{Journal Articles}
+
+\cventry{}{\hangbibentry{casillas2023using}}{}{}{}{}
+\cventry{}{\hangbibentry{casillas2025opening}}{}{}{}{}
+
+\subsection{Selected Proceedings and Electronic Publications}
+
+
+\subsection{Book Chapters and Reviews}
+
+
+\subsection{Manuscripts Under Review}
+
+
+\subsection{Manuscripts in Preparation}
+

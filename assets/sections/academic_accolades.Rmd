@@ -1,0 +1,12 @@
+\section{Academic Accolades}
+
+\vspace{-0.2in}
+
+\subsection{Grants and Scholarships}
+
+\cventry{2024-2025}{SGS Dean's Fellowship}{Awarded \$30,000.00}{}{}{Rutgers University, New Brunswick, NJ}{}{}
+
+\subsection{Awards and Honors}
+
+\cventry{2021}{Linguistic Department Research Award}{Awarded \$500.00}{}{}{Rutgers University, New Brunswick, NJ}
+\cventry{2021}{Henry Rutgers Scholar Award}{Awarded \$1,000.00}{}{}{Rutgers University, New Brunswick, NJ}

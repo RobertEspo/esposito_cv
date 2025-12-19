@@ -1,0 +1,5 @@
+
+\section{Appointments}
+
+\cventry{2024 -- Present}{Teaching Assistant}{Rutgers University}{}{}{Teaching -- Department of Spanish and Portuguese}
+

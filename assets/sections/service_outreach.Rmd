@@ -1,0 +1,32 @@
+
+\section{Service and Outreach}
+
+\vspace{-0.1in}
+
+\subsection{Mentoring of doctoral students}
+
+\subsection{Mentoring of undergraduate students}
+
+\subsection{Manuscript Reviewer}
+
+\cventry{2024}{Phonetica.}{}{}{}{}
+\cventry{}{Journal of Monolingual and Bilingual Speech.}{}{}{}{}
+
+
+\subsection{Abstract Reviewer}
+
+
+
+\subsection{Departmental Committees and Administrative Assignments}
+
+\cventry{2024}{Faculty Meeting Graduate Representative}{Department of Spanish and Portuguese}{}{}{Rutgers University, New Brunswick, NJ}
+
+
+
+\subsection{Organizations and Committees}
+
+\cventry{2024 -- Present}{Member}{RU Bilingual}{}{}{Rutgers University, New Brunswick, NJ}
+\cventry{2020 -- Present}{Translator and Interpreter}{The Language Bank}{}{Department of Spanish and Portuguese}{Rutgers University, New Brunswick, NJ}
+\cventry{2025-2026}{President}{RU Bilingual}{}{}{Rutgers University, New Brunswick, NJ}
+\cventry{}{Intern}{iRISE}{}{}{Rutgers University, New Brunswick, NJ}
+

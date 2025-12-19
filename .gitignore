@@ -1,0 +1,10 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+.casillas_cv.lb
+
+.DS_Store
+
+casillas_cv.log
+casillas_cv.tex

@@ -1,0 +1,8 @@
+
+\section{Research Experience}
+
+\cventry{2020 -- present}{Graduate Research Assistant}{Rutgers Applied Phonetics Group: \href{https://rap-group.github.io/}{\faLink}}{}{Department of Spanish and Portuguese}{Rutgers University. New Brunswick, NJ, Lab director: Dr. Joseph V. Casillas}
+\cventry{}{Graduate Research Assistant}{BLiNK}{}{Department of Spanish and Portuguese}{Rutgers University. New Brunswick, NJ, Lab director: Dr. Nuria Sagarra}
+\cventry{2020-2021}{Undergraduate Research Assistant}{Prosody Lab}{}{Department of Linguistics}{Rutgers University. New Brunswick, NJ Director: Dr. Mariapaola D'Imperio}
+\cventry{}{Undergraduate Research Assistant}{}{}{Department of Spanish and Portuguese}{Rutgers University. New Brunswick, NJ Directors: Dr. Liliana Sanchez and Dr. Jennifer Austin}
+
