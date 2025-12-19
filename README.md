@@ -1,7 +1,10 @@
 
 # Academic CV
 
-Last update: 2024-01-30
+Clone of [Joseph Casillas’ CV
+template](https://github.com/jvcasillas/cv).
+
+Last update: 2025-12-19
 
 ## Overview
 
@@ -20,14 +23,11 @@ RMarkdown.
   - Publications
     - published:
     - in press:
-      - LL with nuria
-      - Cambridge handbook chapter
     - under review:
     - accepted:
     - in prep:
+    - Misc:
   - Presentations
-    - talks
-    - workshops
 - Teaching
 - Service
   - chair sessions

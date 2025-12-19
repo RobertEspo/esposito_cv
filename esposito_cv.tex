@@ -1,0 +1,333 @@
+% Basic preamble
+\documentclass[11pt,letterpaper]{moderncv}
+
+% Pull from header includes
+
+
+% moderncv themes
+\moderncvtheme[black]{classic} % optional argument are 'blue' (default), 
+                               % 'orange', 'green', 'red', 'purple', 
+                               % 'grey' and 'roman' (for roman fonts, 
+                               % instead of sans serif fonts)
+%\usepackage{assets/tex/moderncvthemeclassic}
+
+%\usepackage[utf8]{inputenc} %character encoding
+
+%\usepackage{hyperref}
+\usepackage{url,fancyhdr}
+
+% needed for xelatex to work
+\usepackage{fontspec}
+\usepackage{xunicode}
+\usepackage{xcolor}
+
+% my additions: 
+% include ipa and bib formatting
+\let\sups\relax
+\usepackage{tipa}
+\usepackage{multicol}
+\usepackage[spanish, english]{babel}
+\usepackage{natbib}
+\usepackage{bibentry}
+\newcommand{\bibverse}[1]{\begin{verse} \bibentry{#1}. \end{verse}}
+\usepackage{hanging}
+\usepackage{fontawesome5}
+\usepackage{academicons}
+
+% adjust the page margins
+\usepackage[scale=0.8]{geometry}
+
+%\setlength{\hintscolumnwidth}{3cm}           % if you want to change the 
+                                              % width of the column with the 
+                                              % dates
+%\setlength{\maketitlenamewidth}{10cm}}       % only for the classic theme, 
+                                              % if you want to change the 
+                                              % width of your name placeholder 
+                                              % (to leave more space for your 
+                                              % address details
+
+
+
+
+% Personal data
+\firstname{Robert}
+\familyname{Esposito}
+\title{Ph.D. Student}
+\address{Rutgers University \\ 
+         Department of Spanish and Portuguese}{New Brunswick, NJ 08901}
+% \mobile{}
+\phone{(848) 932-6934}
+%\fax{(520) 621-6104}
+\email{rme70@scarletmail.rutgers.edu}
+\homepage{https://robertespo.github.io/}
+% \extrainfo{}
+\def\mytitle{Ph.D. Student}
+\def\myphone{(848) 932-6934}
+% \def\myskype{casillas.joseph}
+\def\myemail{rme70@scarletmail.rutgers.edu}
+\def\myweb{https://robertespo.github.io/}
+\def\facweb{https://span-port.rutgers.edu/people/ph-d-students-tas/graduate-students/129-current-students-phd-in-bilingualismsla/1094-esposito-robert}
+\def\school{Rutgers University}
+\def\schoolweb{https://www.rutgers.edu}
+
+
+%\nopagenumbers{}  % uncomment to suppress automatic page numbering for CVs 
+                   % longer than one page
+
+% IPA stuff
+\AtBeginDocument{
+  \renewcommand\textipa[2][r]{{\fontfamily{cm#1}\tipaencoding #2}}
+}
+\renewenvironment{IPA}[1][r]
+ {\fontfamily{cm#1}\tipaencoding}
+ {}
+
+% Adjust section rule thickness
+% Decrease vertical distance after section header
+\makeatletter
+\renewcommand{\section}[1]
+{\vspace*{2.5ex \@plus 1ex \@minus .2ex}%
+\phantomsection{}% reset the anchor for hyperrefs
+\addcontentsline{toc}{part}{#1}%
+\parbox[m]{\hintscolumnwidth}{\raggedleft  \hintfont{\color{sectionrectanglecolor}\rule{\hintscolumnwidth}{1.5pt}}}%<- auf 11pt geaendert
+\hspace{\separatorcolumnwidth}%
+\parbox[m]{\maincolumnwidth}{\sectionstyle{#1}}\\[0ex]}
+\makeatother
+
+% hanging bib
+\nobibliography*
+\newcommand\hangbibentry[1]{%
+    \hangpara{1.5em}{1}\bibentry{#1}.\par %{indent}{afterline}
+}
+
+% Bold author name
+%\newcommand\authoremph[1]{#1}
+\newcommand\authoremph[1]{\textbf{#1}}
+
+% set linebreaks
+\hyphenation{anti-ci-pa-tion acco-mmo-da-tion pro-ce-ssing heri-tage Co-llege con-si-de-ra-tions Pho-no-lo-gy me-tho-do-lo-gi-cal}
+
+% Allow syntax highlighting for r code
+
+
+
+
+
+
+
+
+
+
+
+
+\begin{document}
+
+
+
+
+\setmainfont[Mapping=tex-text, Numbers=OldStyle, BoldFont=MinionPro-Bold]{Minion Pro}
+\setsansfont[Mapping=tex-text, Color=black]{Myriad Pro}
+\setmonofont[Mapping=tex-text, Scale=0.9]{Consolas}
+
+\bigskip
+
+\vspace{.1in}
+
+\noindent{\huge {\textsc{Robert Esposito}, Ph.D. Student}}
+\reversemarginpar
+
+\noindent 
+
+\rule{492pt}{1.5pt}
+\vspace{-0.1in}
+
+\begin{minipage}[t]{2.4in}
+ \flushleft 
+  \href{\schoolweb}{\school} \\ 
+  Academic Building-CAC \\  
+  15 Seminary place \\
+  New Brunswick, \textsc{nj} 08901 
+\end{minipage}
+\hfill     
+\begin{minipage}[t]{1.7in}
+  \flushleft 
+  \faUniversity \phantom{-}\href{\facweb}{Faculty page} \\
+  \faPhone \phantom{-}\myphone \\
+  \faPaperPlane \phantom{-}\href{\myemail}{\texttt{\myemail}} \\
+  \faHome \phantom{-}\href{https://robertespo.github.io/}{\texttt{\myweb}} \\
+\end{minipage}
+\hfill
+\begin{minipage}[t]{1.7in}
+  \flushright 
+  Google scholar: \href{https://scholar.google.com/citations?hl=en&user=ZUcIHu0AAAAJ}{\aiGoogleScholar} \\ 
+  ResearchGate: \href{}{\aiResearchGate} \\
+  @RobertEspo \href{https://github.com/RobertEspo}{\faGithub} \\ 
+  LinkedIn: \href{https://www.linkedin.com/in/robert-esposito-4a51911a2/}{\faLinkedin}
+\end{minipage}
+
+\vspace{0.1in}
+
+\section{Appointments}
+
+\cventry{2024 -- Present}{Teaching Assistant}{Rutgers University}{}{}{Teaching -- Department of Spanish and Portuguese}
+
+\section{Education}
+
+\cventry{expected 2029}{Ph.D., Spanish}{}{Rutgers University}{New Brunswick, NJ}{Concentration: Bilingualism and Second Language Acquisition \\ Dissertation: \emph{TBA} \\ Director: Dr. Joseph V. Casillas}
+\cventry{2024}{M.A.}{Translation and Interpretation}{Rutgers University}{New Jersey, NJ}{}
+\cventry{2021}{B.A.}{Linguistics}{Rutgers University}{New Brunswick, NJ}{Minors: Spanish, Italian, French}
+
+\section{Publications}
+
+\vspace{-0.1in}
+
+\subsection{Journal Articles}
+
+\cventry{}{\hangbibentry{casillas2023using}}{}{}{}{}
+\cventry{}{\hangbibentry{casillas2025opening}}{}{}{}{}
+
+\subsection{Selected Proceedings and Electronic Publications}
+
+\subsection{Book Chapters and Reviews}
+
+\subsection{Manuscripts Under Review}
+
+\subsection{Manuscripts in Preparation}
+
+\section{Software}
+
+\subsection{R packages}
+
+\subsection{Web applications}
+
+\subsection{Miscellaneous}
+
+\section{Presentations}
+
+\subsection{Conference Presentations}
+
+\cventry{}{\hangbibentry{esposito_hls-pres_2025}}{}{}{}{}
+\cventry{}{\hangbibentry{esposito_salvadoran-intonation_2021}}{}{}{}{}
+
+\subsection{Poster Presentations}
+
+\subsection{Unrefereed Presentations}
+
+\subsection{Invited Talks}
+
+\cventry{}{\hangbibentry{esposito_plots_2025}}{}{}{}{}
+\cventry{}{\hangbibentry{esposito_psycho-phonetics_2025}}{}{}{}{}
+\cventry{}{\hangbibentry{esposito_lengua-y-herencia_2025}}{}{}{}{}
+
+\subsection{Workshops}
+
+\section{Research Experience}
+
+\cventry{2020 -- present}{Graduate Research Assistant}{Rutgers Applied Phonetics Group: \href{https://rap-group.github.io/}{\faLink}}{}{Department of Spanish and Portuguese}{Rutgers University. New Brunswick, NJ, Lab director: Dr. Joseph V. Casillas}
+\cventry{}{Graduate Research Assistant}{BLiNK}{}{Department of Spanish and Portuguese}{Rutgers University. New Brunswick, NJ, Lab director: Dr. Nuria Sagarra}
+\cventry{2020-2021}{Undergraduate Research Assistant}{Prosody Lab}{}{Department of Linguistics}{Rutgers University. New Brunswick, NJ Director: Dr. Mariapaola D'Imperio}
+\cventry{}{Undergraduate Research Assistant}{}{}{Department of Spanish and Portuguese}{Rutgers University. New Brunswick, NJ Directors: Dr. Liliana Sanchez and Dr. Jennifer Austin}
+
+\section{Academic Accolades}
+
+\vspace{-0.2in}
+
+\subsection{Grants and Scholarships}
+
+\cventry{2024-2025}{SGS Dean's Fellowship}{Awarded \$30,000.00}{}{}{Rutgers University, New Brunswick, NJ}{}{}
+
+\subsection{Awards and Honors}
+
+\cventry{2021}{Linguistic Department Research Award}{Awarded \$500.00}{}{}{Rutgers University, New Brunswick, NJ}
+\cventry{2021}{Henry Rutgers Scholar Award}{Awarded \$1,000.00}{}{}{Rutgers University, New Brunswick, NJ}
+
+\section{Teaching Experience}
+
+\cventry{2024 -- present}{Teaching Assistant}{Rutgers University}{New Brunswick, NJ}{}{Undergraduate (taught in Spanish):
+        \begin{itemize}
+            \item[] \small \emph{Introduction to the Study of Language}
+            \item[] \small \emph{Advanced Composition and Introduction to Translation Studies}
+            }
+
+\section{Service and Outreach}
+
+\vspace{-0.1in}
+
+\subsection{Mentoring of doctoral students}
+
+\subsection{Mentoring of undergraduate students}
+
+\subsection{Manuscript Reviewer}
+
+\cventry{2024}{Phonetica.}{}{}{}{}
+\cventry{}{Journal of Monolingual and Bilingual Speech.}{}{}{}{}
+
+\subsection{Abstract Reviewer}
+
+\subsection{Departmental Committees and Administrative Assignments}
+
+\cventry{2024}{Faculty Meeting Graduate Representative}{Department of Spanish and Portuguese}{}{}{Rutgers University, New Brunswick, NJ}
+
+\subsection{Organizations and Committees}
+
+\cventry{2024 -- Present}{Member}{RU Bilingual}{}{}{Rutgers University, New Brunswick, NJ}
+\cventry{2020 -- Present}{Translator and Interpreter}{The Language Bank}{}{Department of Spanish and Portuguese}{Rutgers University, New Brunswick, NJ}
+\cventry{2025-2026}{President}{RU Bilingual}{}{}{Rutgers University, New Brunswick, NJ}
+\cventry{}{Intern}{iRISE}{}{}{Rutgers University, New Brunswick, NJ}
+
+\section{Professional Development}
+
+\cventry{2025}{Improving Your Classroom Skills Workshop Series}{Institute for Teaching, Innovation, and Inclusive Pedagogy}{}{Rutgers University}{New Brunswick, NJ}
+\cventry{2025}{Second Language Learning Pedagogy}{}{The Language Center}{Rutgers University}{New Brunswick, NJ}
+\cventry{2021}{Multicultural Competence}{Department of Latino and Caribbean Studies}{}{Rutgers University}{New Brunswick, NJ}
+\cventry{2018}{Level 5 Certificate in Teaching English as a Foreign Language}{}{}{International TEFL School}{Barcelona, Spain}
+
+\section{Professional memberships}
+
+\section{Additional Interests}
+
+Languages \vspace{-.18in}
+
+\begin{tabular}{p{1.15in}lp{.7in}l}
+  & English & & Portuguese \\
+  & Spanish & & Italian    \\
+  & French  & &             \\ [2.5ex]
+\end{tabular}
+
+\vspace{.2in}
+
+Programming\\
+Languages \vspace{-.37in}
+
+\begin{tabular}{p{1.15in}lp{.7in}l}
+  & R        & & \LaTeX   \\
+  & Python   & &       \\ [2.5ex]
+\end{tabular}
+
+\vspace{.2in}
+
+Technology \vspace{-.18in}
+
+\begin{tabular}{p{1.15in}lp{.55in}lp{.7in}l}
+   & MacOS X              & & Praat      & & PsychoPy                 \\ 
+   & Windows              & & R/RStudio & &              \\ [2.5ex]
+\end{tabular}
+
+\noindent 
+
+\rule{492pt}{1.5pt}
+
+\smallskip
+
+\begin{center}
+  \begin{footnotesize}
+    Last updated: \today \\
+    \href{https://robertespo.github.io/}{https://robertespo.github.io/}
+  \end{footnotesize}
+\end{center}
+
+\bibliographystyle{apalike}
+\nobibliography{assets/bib/publications_latex}
+
+
+\end{document}
