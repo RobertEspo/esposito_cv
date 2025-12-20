@@ -5,4 +5,5 @@
         \begin{itemize}
             \item[] \small \emph{Introduction to the Study of Language}
             \item[] \small \emph{Advanced Composition and Introduction to Translation Studies}
+        \end{itemize}
             }
