@@ -1,5 +1,5 @@
 # Output file name
-PDF_FILE = casillas_cv.pdf
+PDF_FILE = esposito_cv.pdf
 
 # Don't know what this does
 all : $(PDF_FILE)

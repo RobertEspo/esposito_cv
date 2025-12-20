@@ -22,7 +22,7 @@ Sys.setenv(TEXINPUTS = ".:./assets/tex:")
 #| echo: false
 #| cache: false
 #| warning: false
-#| eval: false
+#| eval: true
 library("RefManageR")
 library("here")
 

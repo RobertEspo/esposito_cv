@@ -2,5 +2,5 @@
 \section{Education}
 
 \cventry{expected 2029}{Ph.D., Spanish}{}{Rutgers University}{New Brunswick, NJ}{Concentration: Bilingualism and Second Language Acquisition \\ Dissertation: \emph{TBA} \\ Director: Dr. Joseph V. Casillas}
-\cventry{2024}{M.A.}{Translation and Interpretation}{Rutgers University}{New Jersey, NJ}{}
+\cventry{2024}{M.A.}{Translation and Interpretation}{Rutgers University}{New Brunswick, NJ}{}
 \cventry{2021}{B.A.}{Linguistics}{Rutgers University}{New Brunswick, NJ}{Minors: Spanish, Italian, French}

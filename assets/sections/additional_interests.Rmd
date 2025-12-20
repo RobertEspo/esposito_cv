@@ -18,7 +18,7 @@ Languages \vspace{-.37in}
 
 \begin{tabular}{p{1.15in}lp{.7in}l}
   & R        & & \LaTeX   \\
-  & Python   & &       \\ [2.5ex]
+  & Python   & &          \\ [2.5ex]
 \end{tabular}
 
 
