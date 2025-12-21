@@ -3,7 +3,7 @@
 \subsection{Conference Presentations}
 
 \cventry{}{\hangbibentry{esposito_hls-pres_2025}}{}{}{}{}
-\cventry{}{\hangbibentry{esposito_salvadoran-intonation_2021}}{}{}{}{}
+\cventry{}{\hangbibentry{esposito_salvadoran-intonation_2025}}{}{}{}{}
 
 
 \subsection{Poster Presentations}
