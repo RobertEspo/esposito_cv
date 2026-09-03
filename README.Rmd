@@ -29,12 +29,22 @@ Ported to RMarkdown.
     - in prep: 
     - Misc:
   - Presentations
+    - Create a personal website workshop
+    - Bridgwater-Raritan high school on bilingualism for parents
+    - Mexican consulate presentations
+      - continuing education
 - Teaching
 - Service
   - chair sessions
   - Reviews
   - Committees
+    Language at Crossroads planning committee
   - Mentoring
+    Mesas de español
 - Academic accolades
+  - Middlebury Portuguese teacher fellowship
 - Software
 - Misc
+  - stats contractor for kristen and nuria
+  - GSA treasurer
+  - CHS science fair

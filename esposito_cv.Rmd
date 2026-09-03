@@ -17,12 +17,10 @@ output:
 Sys.setenv(TEXINPUTS = ".:./assets/tex:")
 ```
 
-```{r}
+```{r message=FALSE, include=FALSE}
 #| label: download-refs
-#| echo: false
-#| cache: false
 #| warning: false
-#| eval: true
+#| cache: false
 library("RefManageR")
 library("here")
 

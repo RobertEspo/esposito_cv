@@ -1,6 +1,28 @@
 
 <!-- Path = fonts/, ...  -->
 <!-- Choose fonts for use with xelatex  -->
-\setmainfont[Mapping=tex-text, Numbers=OldStyle, BoldFont=MinionPro-Bold]{Minion Pro}
-\setsansfont[Mapping=tex-text, Color=black]{Myriad Pro}
-\setmonofont[Mapping=tex-text, Scale=0.9]{Consolas}
+\setmainfont[
+  Path=assets/fonts/,
+  Mapping=tex-text,
+  Numbers=OldStyle,
+  UprightFont=MinionPro-Regular.otf,
+  BoldFont=MinionPro-Bold.otf,
+  ItalicFont=MinionPro-It.otf,
+  BoldItalicFont=MinionPro-BoldIt.otf
+]{MinionPro-Regular.otf}
+
+\setsansfont[
+  Path=assets/fonts/,
+  Mapping=tex-text,
+  Color=black,
+  UprightFont=MYRIADPRO-REGULAR.OTF,
+  BoldFont=MYRIADPRO-BOLD.OTF,
+  ItalicFont=MYRIADPRO-REGULAR.OTF,
+  BoldItalicFont=MYRIADPRO-BOLDIT.OTF
+]{MYRIADPRO-REGULAR.OTF}
+
+\setmonofont[
+  Path=assets/fonts/,
+  Mapping=tex-text,
+  Scale=0.9
+]{Consolas.ttf}
