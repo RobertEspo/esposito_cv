@@ -1,11 +1,11 @@
-This is XeTeX, Version 3.141592653-2.6-0.999998 (TeX Live 2026) (preloaded format=xelatex 2026.9.3)  3 SEP 2026 13:17
+This is XeTeX, Version 3.141592653-2.6-0.999998 (TeX Live 2026) (preloaded format=xelatex 2026.10.2)  10 OCT 2026 19:11
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
 **esposito_cv.tex
 (./esposito_cv.tex
 LaTeX2e <2026-06-01>
-L3 programming layer <2026-08-10>
+L3 programming layer <2026-09-09>
 (c:/Users/rober/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/moderncv/moderncv.cls
 Document Class: moderncv 2026-06-24 v2.6.1 modern curriculum vitae and letter document class
 (c:/Users/rober/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/base/size11.clo
@@ -98,9 +98,9 @@ LaTeX Info: Redefining \addtolength on input line 87.
 \calc@Ccount=\count277
 \calc@Cskip=\skip68
 ) (c:/Users/rober/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/l3packages/xparse/xparse.sty (c:/Users/rober/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/l3kernel/expl3.sty
-Package: expl3 2026-08-10 L3 programming layer (loader) 
+Package: expl3 2026-09-09 L3 programming layer (loader) 
  (c:/Users/rober/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/l3kernel/l3backend-xetex.def
-File: l3backend-xetex.def 2026-08-10 L3 backend support: XeTeX
+File: l3backend-xetex.def 2026-09-09 L3 backend support: XeTeX
 \g__graphics_track_int=\count278
 \g__pdfannot_backend_int=\count279
 \g__pdfannot_backend_link_int=\count280
@@ -169,7 +169,7 @@ LaTeX Font Info:    Trying to load font information for TU+fontawesome6brands on
  (c:/Users/rober/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/fontawesome6/tufontawesome6brands.fd)))) (c:/Users/rober/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/moderncv/moderncviconsacademic.sty
 Package: moderncviconsacademic 2026-06-24 v2.6.1 modern curriculum vitae icons: academicons
  (c:/Users/rober/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/academicons/academicons.sty
-Package: academicons 2025/09/20 v1.9.6-2 Academicons Icons
+Package: academicons 2026/09/09 v1.9.6-3 Academicons Icons
  (c:/Users/rober/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/fontspec/fontspec.sty
 Package: fontspec 2026/08/11 v2.9h Font selection for XeLaTeX and LuaLaTeX
  (c:/Users/rober/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/fontspec/fontspec-xetex.sty
@@ -191,31 +191,29 @@ Package: fontspec-xetex 2026/08/11 v2.9h Font selection for XeLaTeX and LuaLaTeX
  (c:/Users/rober/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/base/fontenc.sty
 Package: fontenc 2025/07/18 v2.1d Standard LaTeX package
 ) (c:/Users/rober/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/fontspec/fontspec.cfg)))
+Missing character: There is no   (U+0020) in font [academicons.otf]/OT!
+Missing character: There is no   (U+0020) in font [academicons.otf]/OT!
+Missing character: There is no   (U+0020) in font [academicons.otf]/OT:language=dflt;!
 
 Package fontspec Info: 
 (fontspec)             Font family 'academicons(0)' created for font
-(fontspec)             'academicons' with options [UprightFont =
-(fontspec)             academicons,BoldFont = academicons,ItalicFont =
-(fontspec)             academicons,BoldItalicFont = academicons].
+(fontspec)             'academicons' with options [Extension =
+(fontspec)             .otf,UprightFont = *,BoldFont = *,ItalicFont =
+(fontspec)             *,BoldItalicFont = *].
 (fontspec)              
 (fontspec)              This font family consists of the following NFSS
 (fontspec)             series/shapes:
 (fontspec)              
-(fontspec)             - 'normal' (m/n) with NFSS spec.: <->"academicons"
-(fontspec)             - 'small caps'  (m/sc) with NFSS spec.:
-(fontspec)             <->"academicons"
-(fontspec)             - 'bold' (b/n) with NFSS spec.: <->"academicons"
-(fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.:
-(fontspec)             <->"academicons"
-(fontspec)             - 'italic' (m/it) with NFSS spec.: <->"academicons"
-(fontspec)             - 'italic small caps'  (m/scit) with NFSS spec.:
-(fontspec)             <->"academicons"
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <->"[academicons.otf]/OT:language=dflt;"
+(fontspec)             - 'bold' (b/n) with NFSS spec.:
+(fontspec)             <->"[academicons.otf]/OT:language=dflt;"
+(fontspec)             - 'italic' (m/it) with NFSS spec.:
+(fontspec)             <->"[academicons.otf]/OT:language=dflt;"
 (fontspec)             - 'bold italic' (b/it) with NFSS spec.:
-(fontspec)             <->"academicons"
-(fontspec)             - 'bold italic small caps'  (b/scit) with NFSS spec.:
-(fontspec)             <->"academicons"
+(fontspec)             <->"[academicons.otf]/OT:language=dflt;"
 
- (c:/Users/rober/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/academicons/academicons-xeluatex.tex) (c:/Users/rober/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/academicons/academicons-generic.tex))) (c:/Users/rober/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/moderncv/moderncviconstikz.sty
+(c:/Users/rober/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/academicons/academicons-xeluatex.tex) (c:/Users/rober/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/academicons/academicons-generic.tex))) (c:/Users/rober/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/moderncv/moderncviconstikz.sty
 Package: moderncviconstikz 2026-06-24 v2.6.1 modern curriculum vitae and letter icons: tickz
  (c:/Users/rober/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/pgf/frontendlayer/tikz.sty (c:/Users/rober/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/pgf/basiclayer/pgf.sty (c:/Users/rober/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/pgf/utilities/pgfrcs.sty (c:/Users/rober/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/pgf/utilities/pgfutil-common.tex
 \pgfutil@everybye=\toks22
@@ -400,8 +398,7 @@ File: pgfmodulematrix.code.tex 2026-08-01 v3.1.12 (3.1.12)
 File: tikzlibrarytopaths.code.tex 2026-08-01 v3.1.12 (3.1.12)
 ))) (c:/Users/rober/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarybabel.code.tex
 File: tikzlibrarybabel.code.tex 2026-08-01 v3.1.12 (3.1.12)
-)))
-(c:/Users/rober/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/moderncv/moderncvheadi.sty
+))) (c:/Users/rober/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/moderncv/moderncvheadi.sty
 Package: moderncvheadi 2026-06-24 v2.6.1 modern curriculum vitae and letter header variant: 1
 \quotewidth=\skip75
 \makecvheadnamewidth=\skip76
@@ -665,7 +662,8 @@ File: hxetex.def 2026-06-17 v7.01r Hyperref driver for XeTeX
 \c@bookmark@seq@number=\count352
  (c:/Users/rober/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty
 Package: rerunfilecheck 2025-06-21 v1.11 Rerun checks for auxiliary files (HO)
- (c:/Users/rober/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/uniquecounter/uniquecounter.sty
+
+(c:/Users/rober/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/uniquecounter/uniquecounter.sty
 Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
 )
 Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 284.
@@ -890,17 +888,6 @@ Overfull \hbox (0.56213pt too wide) in paragraph at lines 164--166
 [][]
  []
 
-! Undefined control sequence.
-<recently read> \faUniversity 
-                              
-l.177   \faUniversity
-                      \phantom{-}\href{\facweb}{Faculty page} \\
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
 Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `fontawesome6free' (encoding: TU).
 (microtype)             For optimal results, create family-specific settings.
@@ -976,73 +963,178 @@ Overfull \hbox (49.11957pt too wide) in paragraph at lines 179--179
 [][][][]\TU/Consolas.ttf(0)/m/n/10.95 rme70@scarletmail.rutgers.edu[]  
  []
 
-! Undefined control sequence.
-<recently read> \faHome 
-                        
-l.180   \faHome
-                \phantom{-}\href{https://robertespo.github.io/}{\texttt{\myw...
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
 
-
-Overfull \hbox (38.16957pt too wide) in paragraph at lines 180--180
-[][][]\TU/Consolas.ttf(0)/m/n/10.95 https://robertespo.github.io/[]  
+Overfull \hbox (49.11957pt too wide) in paragraph at lines 180--180
+[][][][]\TU/Consolas.ttf(0)/m/n/10.95 https://robertespo.github.io/[]  
  []
 
+Missing character: There is no   (U+0020) in font [academicons.otf]/OT:language=dflt;!
 Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `academicons' (encoding: TU).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
-Package microtype Info: Character `textendash ' is missing
-(microtype)             in font `TU/academicons(0)/m/n/10.95'.
+Package microtype Info: Character `A' is missing
+(microtype)             in font `\TU/academicons(0)/m/n/10.95'.
 (microtype)             Ignoring protrusion settings for this character.
-Package microtype Info: Character `textemdash ' is missing
-(microtype)             in font `TU/academicons(0)/m/n/10.95'.
+Package microtype Info: Character `F' is missing
+(microtype)             in font `\TU/academicons(0)/m/n/10.95'.
 (microtype)             Ignoring protrusion settings for this character.
-Package microtype Info: Character `textquoteleft ' is missing
-(microtype)             in font `TU/academicons(0)/m/n/10.95'.
+Package microtype Info: Character `J' is missing
+(microtype)             in font `\TU/academicons(0)/m/n/10.95'.
 (microtype)             Ignoring protrusion settings for this character.
-Package microtype Info: Character `textquoteright ' is missing
-(microtype)             in font `TU/academicons(0)/m/n/10.95'.
+Package microtype Info: Character `K' is missing
+(microtype)             in font `\TU/academicons(0)/m/n/10.95'.
 (microtype)             Ignoring protrusion settings for this character.
-Package microtype Info: Character `textquotedblleft ' is missing
-(microtype)             in font `TU/academicons(0)/m/n/10.95'.
+Package microtype Info: Character `L' is missing
+(microtype)             in font `\TU/academicons(0)/m/n/10.95'.
 (microtype)             Ignoring protrusion settings for this character.
-Package microtype Info: Character `textquotedblright ' is missing
-(microtype)             in font `TU/academicons(0)/m/n/10.95'.
+Package microtype Info: Character `T' is missing
+(microtype)             in font `\TU/academicons(0)/m/n/10.95'.
 (microtype)             Ignoring protrusion settings for this character.
-Package microtype Info: Character `AE ' is missing
-(microtype)             in font `TU/academicons(0)/m/n/10.95'.
+Package microtype Info: Character `V' is missing
+(microtype)             in font `\TU/academicons(0)/m/n/10.95'.
 (microtype)             Ignoring protrusion settings for this character.
-Package microtype Info: Character `quotesinglbase ' is missing
-(microtype)             in font `TU/academicons(0)/m/n/10.95'.
+Package microtype Info: Character `W' is missing
+(microtype)             in font `\TU/academicons(0)/m/n/10.95'.
 (microtype)             Ignoring protrusion settings for this character.
-Package microtype Info: Character `quotedblbase ' is missing
-(microtype)             in font `TU/academicons(0)/m/n/10.95'.
+Package microtype Info: Character `X' is missing
+(microtype)             in font `\TU/academicons(0)/m/n/10.95'.
 (microtype)             Ignoring protrusion settings for this character.
-Package microtype Info: Character `guilsinglleft ' is missing
-(microtype)             in font `TU/academicons(0)/m/n/10.95'.
+Package microtype Info: Character `Y' is missing
+(microtype)             in font `\TU/academicons(0)/m/n/10.95'.
 (microtype)             Ignoring protrusion settings for this character.
-Package microtype Info: Character `guilsinglright ' is missing
-(microtype)             in font `TU/academicons(0)/m/n/10.95'.
+Package microtype Info: Character `k' is missing
+(microtype)             in font `\TU/academicons(0)/m/n/10.95'.
 (microtype)             Ignoring protrusion settings for this character.
-Package microtype Info: Character `guillemotleft ' is missing
-(microtype)             in font `TU/academicons(0)/m/n/10.95'.
+Package microtype Info: Character `r' is missing
+(microtype)             in font `\TU/academicons(0)/m/n/10.95'.
 (microtype)             Ignoring protrusion settings for this character.
-Package microtype Info: Character `guillemotright ' is missing
-(microtype)             in font `TU/academicons(0)/m/n/10.95'.
+Package microtype Info: Character `v' is missing
+(microtype)             in font `\TU/academicons(0)/m/n/10.95'.
 (microtype)             Ignoring protrusion settings for this character.
-Package microtype Info: Character `textexclamdown ' is missing
-(microtype)             in font `TU/academicons(0)/m/n/10.95'.
+Package microtype Info: Character `w' is missing
+(microtype)             in font `\TU/academicons(0)/m/n/10.95'.
 (microtype)             Ignoring protrusion settings for this character.
-Package microtype Info: Character `textquestiondown ' is missing
-(microtype)             in font `TU/academicons(0)/m/n/10.95'.
+Package microtype Info: Character `x' is missing
+(microtype)             in font `\TU/academicons(0)/m/n/10.95'.
 (microtype)             Ignoring protrusion settings for this character.
-Missing character: There is no  ("E9D4) in font academicons!
-Missing character: There is no  ("E95E) in font academicons!
+Package microtype Info: Character `y' is missing
+(microtype)             in font `\TU/academicons(0)/m/n/10.95'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `1' is missing
+(microtype)             in font `\TU/academicons(0)/m/n/10.95'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `4' is missing
+(microtype)             in font `\TU/academicons(0)/m/n/10.95'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `7' is missing
+(microtype)             in font `\TU/academicons(0)/m/n/10.95'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `.' is missing
+(microtype)             in font `\TU/academicons(0)/m/n/10.95'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `,' is missing
+(microtype)             in font `\TU/academicons(0)/m/n/10.95'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `:' is missing
+(microtype)             in font `\TU/academicons(0)/m/n/10.95'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `;' is missing
+(microtype)             in font `\TU/academicons(0)/m/n/10.95'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `!' is missing
+(microtype)             in font `\TU/academicons(0)/m/n/10.95'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `?' is missing
+(microtype)             in font `\TU/academicons(0)/m/n/10.95'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `@' is missing
+(microtype)             in font `\TU/academicons(0)/m/n/10.95'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `~ (= ~)' is missing
+(microtype)             in font `\TU/academicons(0)/m/n/10.95'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `\%' is missing
+(microtype)             in font `\TU/academicons(0)/m/n/10.95'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `*' is missing
+(microtype)             in font `\TU/academicons(0)/m/n/10.95'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `+' is missing
+(microtype)             in font `\TU/academicons(0)/m/n/10.95'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `(' is missing
+(microtype)             in font `\TU/academicons(0)/m/n/10.95'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `)' is missing
+(microtype)             in font `\TU/academicons(0)/m/n/10.95'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `-' is missing
+(microtype)             in font `\TU/academicons(0)/m/n/10.95'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `\textendash ' is missing
+(microtype)             in font `\TU/academicons(0)/m/n/10.95'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `\textemdash ' is missing
+(microtype)             in font `\TU/academicons(0)/m/n/10.95'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `\textquoteleft ' is missing
+(microtype)             in font `\TU/academicons(0)/m/n/10.95'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `\textquoteright ' is missing
+(microtype)             in font `\TU/academicons(0)/m/n/10.95'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `\textquotedblleft ' is missing
+(microtype)             in font `\TU/academicons(0)/m/n/10.95'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `\textquotedblright ' is missing
+(microtype)             in font `\TU/academicons(0)/m/n/10.95'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `\AE ' is missing
+(microtype)             in font `\TU/academicons(0)/m/n/10.95'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `_' is missing
+(microtype)             in font `\TU/academicons(0)/m/n/10.95'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `\textbackslash ' is missing
+(microtype)             in font `\TU/academicons(0)/m/n/10.95'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `\quotesinglbase ' is missing
+(microtype)             in font `\TU/academicons(0)/m/n/10.95'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `\quotedblbase ' is missing
+(microtype)             in font `\TU/academicons(0)/m/n/10.95'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `\guilsinglleft ' is missing
+(microtype)             in font `\TU/academicons(0)/m/n/10.95'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `\guilsinglright ' is missing
+(microtype)             in font `\TU/academicons(0)/m/n/10.95'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `\guillemotleft ' is missing
+(microtype)             in font `\TU/academicons(0)/m/n/10.95'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `\guillemotright ' is missing
+(microtype)             in font `\TU/academicons(0)/m/n/10.95'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `\textexclamdown ' is missing
+(microtype)             in font `\TU/academicons(0)/m/n/10.95'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `\textquestiondown ' is missing
+(microtype)             in font `\TU/academicons(0)/m/n/10.95'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `\textbraceleft ' is missing
+(microtype)             in font `\TU/academicons(0)/m/n/10.95'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `\textbraceright ' is missing
+(microtype)             in font `\TU/academicons(0)/m/n/10.95'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `\textless ' is missing
+(microtype)             in font `\TU/academicons(0)/m/n/10.95'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `\textgreater ' is missing
+(microtype)             in font `\TU/academicons(0)/m/n/10.95'.
+(microtype)             Ignoring protrusion settings for this character.
 Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `fontawesome6brands' (encoding: TU).
 (microtype)             For optimal results, create family-specific settings.
@@ -1235,18 +1327,18 @@ Overfull \hbox (0.56213pt too wide) in paragraph at lines 343--344
 (./esposito_cv.bbl) [4] (./esposito_cv.aux)
  ***********
 LaTeX2e <2026-06-01>
-L3 programming layer <2026-08-10>
+L3 programming layer <2026-09-09>
  ***********
 Package rerunfilecheck Info: File `esposito_cv.out' has not changed.
 (rerunfilecheck)             Checksum: B17B78D40267C4E581D5553BA5120F9A;5269.
  ) 
 Here is how much of TeX's memory you used:
- 32068 strings out of 469725
- 637627 string characters out of 5465246
- 1084957 words of memory out of 5000000
- 60566 multiletter control sequences out of 15000+600000
- 631726 words of font info for 95 fonts, out of 8000000 for 9000
+ 32069 strings out of 469676
+ 637657 string characters out of 5463299
+ 1084971 words of memory out of 5000000
+ 60608 multiletter control sequences out of 15000+600000
+ 631956 words of font info for 96 fonts, out of 8000000 for 9000
  44 hyphenation exceptions out of 8191
- 137i,13n,136p,1008b,464s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 137i,13n,148p,1008b,464s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
 Output written on esposito_cv.pdf (4 pages).
