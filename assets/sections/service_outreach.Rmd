@@ -7,10 +7,12 @@
 
 \subsection{Mentoring of undergraduate students}
 
+\cventry{2024-Present}{Volunteer}{Mesas de español (Spanish conversation group)}{}{}{Rutgers University, New Brunswick, NJ}
+
 \subsection{Manuscript Reviewer}
 
-\cventry{2024}{Phonetica.}{}{}{}{}
-\cventry{}{Journal of Monolingual and Bilingual Speech.}{}{}{}{}
+\cventry{2025}{Phonetica.}{}{}{}{}
+\cventry{2026}{Journal of Monolingual and Bilingual Speech.}{}{}{}{}
 
 
 \subsection{Abstract Reviewer}
@@ -19,14 +21,22 @@
 
 \subsection{Departmental Committees and Administrative Assignments}
 
+\cventry{2026-2027}{Graduate Student Association Treasurer}{Department of Spanish and Portuguese}{}{}{Rutgers University, New Brunswick, NJ}
 \cventry{2024}{Faculty Meeting Graduate Representative}{Department of Spanish and Portuguese}{}{}{Rutgers University, New Brunswick, NJ}
 
 
 
 \subsection{Organizations and Committees}
 
-\cventry{2024 -- Present}{Member}{RU Bilingual}{}{}{Rutgers University, New Brunswick, NJ}
-\cventry{2020 -- Present}{Translator and Interpreter}{The Language Bank}{}{Department of Spanish and Portuguese}{Rutgers University, New Brunswick, NJ}
-\cventry{2025-2026}{President}{RU Bilingual}{}{}{Rutgers University, New Brunswick, NJ}
-\cventry{}{Intern}{iRISE}{}{}{Rutgers University, New Brunswick, NJ}
+\cventry{2024 -- Present}{Website manager}{RU Bilingual}{}{}{Rutgers University, New Brunswick, NJ}
+\cventry{2026-2027}{Planning committee member}{Language at Crossroads II conference}{}{}{Rutgers University, New Brunswick, NJ}
+\cventry{2025-2026}{Planning committee member}{Language at Crossroads I conference}{}{}{Rutgers University, New Brunswick, NJ}
+\cventry{}{President}{RU Bilingual}{}{}{Rutgers University, New Brunswick, NJ}
+
+\subsection{Community Outreach and Volunteering}
+
+\cventry{2020 -- Present}{Translator and Interpreter}{The Language Bank}{}{}{Department of Spanish and Portuguese, Rutgers University, New Brunswick, NJ}
+\cventry{2026}{Judge}{Woodbridge Science, Engineering, and Technology Symposium}{}{}{Colonia High School, Woodbridge Township, NJ}
+\cventry{2025}{Volunteer}{Delaware Valley Translators Association}{}{}{Rutgers University, New Brunswick, NJ}
+\cventry{}{Intern}{iRISE}{}{}{Department of Spanish and Portuguese, Rutgers University, New Brunswick, NJ}
 

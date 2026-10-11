@@ -4,7 +4,7 @@
 Clone of [Joseph Casillas’ CV
 template](https://github.com/jvcasillas/cv).
 
-Last update: 2026-09-03
+Last update: 2026-10-10
 
 ## Overview
 
@@ -28,20 +28,12 @@ RMarkdown.
     - in prep:
     - Misc:
   - Presentations
-    - Create a personal website workshop
-    - Bridgwater-Raritan high school on bilingualism for parents
-    - Mexican consulate presentations
-      - continuing education
 - Teaching
 - Service
   - chair sessions
   - Reviews
-  - Committees Language at Crossroads planning committee
-  - Mentoring Mesas de español
+  - Committees
+  - Mentoring
 - Academic accolades
-  - Middlebury Portuguese teacher fellowship
 - Software
 - Misc
-  - stats contractor for kristen and nuria
-  - GSA treasurer
-  - CHS science fair

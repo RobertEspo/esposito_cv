@@ -16,10 +16,15 @@
 
 \subsection{Invited Talks}
 
+\cventry{}{\hangbibentry{esposito_bi-child_2026}}{}{}{}{}
+\cventry{}{\hangbibentry{esposito_bi-opportunities_2026}}{}{}{}{}
 \cventry{}{\hangbibentry{esposito_plots_2025}}{}{}{}{}
 \cventry{}{\hangbibentry{esposito_psycho-phonetics_2025}}{}{}{}{}
 \cventry{}{\hangbibentry{esposito_lengua-y-herencia_2025}}{}{}{}{}
 \cventry{}{\hangbibentry{esposito_irise_2025}}{}{}{}{}
 
 \subsection{Workshops}
+
+\cventry{}{\hangbibentry{esposito_r_2026}}{}{}{}{}
+\cventry{}{\hangbibentry{esposito_website_2026}}{}{}{}{}
 

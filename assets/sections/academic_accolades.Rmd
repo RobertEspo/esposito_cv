@@ -4,7 +4,8 @@
 
 \subsection{Grants and Scholarships}
 
-\cventry{2024-2025}{SGS Dean's Fellowship}{Awarded \$30,000.00}{}{}{Rutgers University, New Brunswick, NJ}{}{}
+\cventry{2025}{Middlebury Portuguese Teacher Fellowship}{Awarded \$13,380}{}{}{Rutgers University, New Brunswick, NJ}{}{}
+\cventry{2024}{SGS Dean's Fellowship}{Awarded \$30,000.00}{}{}{Rutgers University, New Brunswick, NJ}{}{}
 
 \subsection{Awards and Honors}
 
